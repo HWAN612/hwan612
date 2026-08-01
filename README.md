@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:9013FE&height=200&section=header&text=Welcome%20to%20Jihwan's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Unity%20Client%20Developer&descAlignY=55&descSize=20"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=게임+속에서+살아+움직이는+시스템을+만듭니다;몬스터+AI(FSM%2FBT)+%7C+게임+시스템+아키텍처;Unity+%7C+C%23"/>
-</p>
 
 ---
 
