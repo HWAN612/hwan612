@@ -23,11 +23,6 @@
 
 - Email: jee0612@naver.com
 
-
-<p align="middle">
-  제가 키우는 강아지 아쿠입니다.
-</p>
-
 <p align="middle">
   <img width="225" height="256" alt="Image" src="https://github.com/user-attachments/assets/1b6a529d-ef5b-4d5d-8b44-b0ec6163aa06" />
   <img width="200" height="256" alt="Image" src="https://github.com/user-attachments/assets/a9ef8fbf-0cca-4192-9a0c-ea76c67d95c3" />
