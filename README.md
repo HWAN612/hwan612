@@ -7,7 +7,11 @@
 - 🎓 청강문화산업대학교 — 게임콘텐츠전공 (2026.02 졸업)
 
 <!-- 관심 분야, 소개 문구는 본인 톤에 맞게 자유롭게 수정하세요. -->
-
+가장 좋아하는 것 - 아쿠
+<p align="middle">
+  <img width="225" height="256" alt="Image" src="https://github.com/user-attachments/assets/1b6a529d-ef5b-4d5d-8b44-b0ec6163aa06" />
+  <img width="225" height="256" alt="Image" src="https://github.com/user-attachments/assets/1b6a529d-ef5b-4d5d-8b44-b0ec6163aa06" />
+</p>
 ---
 
 ### 🛠 Tech Stack
